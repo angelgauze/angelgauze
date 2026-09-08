@@ -1,6 +1,7 @@
 <div align="center">
 
-<pre style="background-color: blue;">                                                                                      
+<small>
+<pre>                                                                                      
                                        ,,                                             
                                      `7MM                                             
                                        MM                                             
@@ -13,7 +14,7 @@
                     Ybmmmd'               Ybmmmd'                                     
 
 </pre>
-
+</small>
 
 </div>
 
@@ -22,3 +23,14 @@
 I'm a 3rd year comp-sci student and hobbyist game developer.
 
 Creating beautiful software whilst the prioritizing developer experience is what I love to do. In the development side of things, I still have a lot to learn, but my interests drive me towards open-source, web-design, and native Linux apps.
+
+## The sauce
+[![My Skills](https://skillicons.dev/icons?i=git,linux,svelte,astro,ts,html,css,bun,vite,postman,py,cpp,cmake,gtk,godot,vim,vscodium,obsidian&perline=10)](https://skillicons.dev)
+
+
+
+<div align="right">
+  
+  [![](https://img.shields.io/badge/license-free%20to%20steal%20(I%20stole%20most%20of%20it)-08C)](https://github.com/sebmestrallet/absurd-badges)
+  
+</div>
