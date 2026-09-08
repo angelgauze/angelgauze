@@ -21,16 +21,15 @@ I'm a 3rd year comp-sci student and hobbyist game developer.
 
 Creating beautiful software whilst the prioritizing developer experience is what I love to do. I still have a lot to learn, but my interests drive me towards open-source, web-design, and native Linux apps.
 
-<div align="left">
+<div align="center">
   
-### Tech I use:
+### Some tech I use:
 
-[![My Skills](https://skillicons.dev/icons?i=git,linux,svelte,astro,ts,html,css,bun,vite,postman,py,cpp,cmake,gtk,godot,vim,vscodium,obsidian&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,svelte,astro,ts,css,bun,py,cpp,cmake,gtk,godot,vim,vscodium,obsidian&perline=5)](https://skillicons.dev)
   
 </div>
 <br/>
 
-<hr></hr>
 
 <div align="center">
   
