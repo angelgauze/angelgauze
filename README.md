@@ -17,23 +17,24 @@
 </small>
 
 </div>
+<br/>
 
 ## 👋 yahallo!
 I'm a 3rd year comp-sci student and hobbyist game developer.
 
 Creating beautiful software whilst the prioritizing developer experience is what I love to do. In the development side of things, I still have a lot to learn, but my interests drive me towards open-source, web-design, and native Linux apps.
 
-<div align="center">
+<div align="left">
+<br/>
   
 ### Tech I use:
 
 [![My Skills](https://skillicons.dev/icons?i=git,linux,svelte,astro,ts,html,css,bun,vite,postman,py,cpp,cmake,gtk,godot,vim,vscodium,obsidian&perline=10)](https://skillicons.dev)
   
 </div>
-<br>
+<br/>
 
 <hr></hr>
-
 
 <div align="center">
   
