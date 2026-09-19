@@ -19,7 +19,7 @@
 ## 👋 yahallo!
 I'm a 3rd year comp-sci student and hobbyist game developer.
 
-Creating beautiful software whilst prioritizing developer experience is what I love to do. I still have a lot to learn, but my interests drive me towards open-source, web-design, and native Linux apps.
+I believe that to create beautiful software, you must prioritize the developer experience. I still have a lot to learn, I'm interested in open-source, web-design, and native Linux apps.
 
 <div align="center">
   
